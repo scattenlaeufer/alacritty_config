@@ -1,6 +1,7 @@
 ---
 font:
   size: 9
+  family: monospace, DejaVuSansM Nerd Font Mono
 
 cursor:
   style:
@@ -8,7 +9,7 @@ cursor:
 
 window:
   opacity: 0.6
-  decorations: "none"
+  decorations: "full"
 
 # XTerm's default colors
 colors:
